@@ -1,0 +1,10 @@
+.example-label {
+    font-size: 14px;
+    margin-left: 8px;
+    min-width: 120px;
+  }
+  
+  .example-button-row {
+    width: 490px;
+    margin: 8px 8px 8px 0;
+  }
